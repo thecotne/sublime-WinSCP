@@ -1,5 +1,5 @@
 # sublime-WinSCP
-sublime text WinSCP integration
+sublime text WinSCP integration here is [demo](https://www.youtube.com/watch?v=0Q7X9zmnT7Y)
 
 # how to install
 1. open command palette
