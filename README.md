@@ -5,7 +5,9 @@ sublime text WinSCP integration
 1. open command palette
 2. search and click `Package Contrl: Add Repository`
 3. enter `package.json` file url `https://raw.githubusercontent.com/thecotne/sublime-WinSCP/master/package.json`
-4. enjoy!
+4. search and click `Package Contrl: Install Package`
+5. search and click `sublime WinSCP`
+6. enjoy!
 
 
 # how to use
