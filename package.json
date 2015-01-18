@@ -1,0 +1,16 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "sublime WinSCP",
+			"details": "https://github.com/thecotne/sublime-WinSCP",
+			"releases": [
+				{
+					"platforms": "windows",
+					"sublime_text": ">=3000",
+					"details": "https://github.com/thecotne/sublime-WinSCP/tags"
+				}
+			]
+		}
+	]
+}
