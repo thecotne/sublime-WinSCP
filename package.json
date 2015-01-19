@@ -7,7 +7,7 @@
 			"releases": [
 				{
 					"platforms": "windows",
-					"sublime_text": ">=3000",
+					"sublime_text": "*",
 					"details": "https://github.com/thecotne/sublime-WinSCP/tags"
 				}
 			]
