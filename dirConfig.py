@@ -104,7 +104,9 @@ def getConfig(name = 'sftp-config.json'):
 	_file = getConfigFile(file_path, name)
 	try:
 		if isString(_file):
-			return parseJson(_file)
+			conf = parseJson(_file)
+			conf['local_path'] = os.path.dirname(_file)
+			return conf
 	except:
 		pass
 	return None

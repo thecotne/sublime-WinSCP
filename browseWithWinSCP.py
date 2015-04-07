@@ -14,7 +14,7 @@ for programFilesVar in ['ProgramFiles', 'ProgramFiles(x86)']:
 		pass
 
 if winscpExe:
-	startWinscpCommand = '"'+ winscpExe + '"' + ' {type}://{user}:{password}@{host}:{port}"{remote_path}"'
+	startWinscpCommand = '"'+ winscpExe + '"' + ' {type}://{user}:{password}@{host}:{port}"{remote_path}" /rawsettings LocalDirectory="{local_path}"'
 
 	class browse_with_winscpCommand(sublime_plugin.WindowCommand):
 		def run(self, edit = None):
