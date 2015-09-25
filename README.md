@@ -4,6 +4,8 @@ sublime text WinSCP integration here is [demo](https://www.youtube.com/watch?v=0
 # how to install
 This package is available over package control (search for `sublime WinSCP`)
 
+# [how to install WinSCP on linux](https://github.com/thecotne/sublime-WinSCP/wiki/how-to-install-WinSCP-on-linux)
+
 # how to use
 1. open any project which has `sftp-config.json`
 2. open command palette
