@@ -2,7 +2,7 @@
 sublime text WinSCP integration here is [demo](https://www.youtube.com/watch?v=0Q7X9zmnT7Y)
 
 # how to install
-This package is available over package control (search for `sublime WinSCP`)
+This package is available over package control (search for `WinSCP`)
 
 # [how to install WinSCP on linux](https://github.com/thecotne/sublime-WinSCP/wiki/how-to-install-WinSCP-on-linux)
 
